@@ -7,7 +7,7 @@ from styles import (
     WHITE,
     HEADER_GREEN,
     ROW_GREEN,
-    BCG_BLUE,
+    PRIMARY_BLUE,
     TITLE_FONT,
     HEADER_FONT,
     BODY_FONT,

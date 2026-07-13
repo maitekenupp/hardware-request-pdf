@@ -12,7 +12,7 @@ WHITE = colors.white
 HEADER_GREEN = colors.HexColor("#A9D18E")
 ROW_GREEN = colors.HexColor("#E2F0D9")
 
-BCG_BLUE = colors.HexColor("#325575")
+PRIMARY_BLUE = colors.HexColor("#325575")
 
 # ===== FONTS =====
 
