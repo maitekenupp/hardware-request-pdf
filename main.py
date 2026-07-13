@@ -1,7 +1,12 @@
 from components import PDFForm
 from reportlab.lib import colors
 
-pdf = PDFForm("output/hardware_request.pdf")
+from pathlib import Path
+
+output_file = Path("output/hardware_request.pdf")
+output_file.parent.mkdir(parents=True, exist_ok=True)
+
+pdf = PDFForm(str(output_file))
 
 pdf.title("Hardware Request Form")
 
