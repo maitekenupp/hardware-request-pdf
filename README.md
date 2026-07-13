@@ -85,4 +85,4 @@ Visual settings such as colors, fonts, field sizes, and table styles can be chan
 
 ## License
 
-This project is available for portfolio and educational purposes.
+This project is licensed under the [MIT License](LICENSE).
