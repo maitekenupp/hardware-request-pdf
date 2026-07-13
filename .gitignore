@@ -1,0 +1,14 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+.venv/
+venv/
+
+# PDFs gerados
+output/
+
+# Configurações locais
+.vscode/
+.idea/
